@@ -27,6 +27,11 @@
         "network": "GitHub",
         "username": "olivianxai",
         "url": "https://github.com/olivianxai"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "olivia-peiyu-wang",
+        "url": "https://www.linkedin.com/in/olivia-peiyu-wang/"
       }
     ]
   },
@@ -61,10 +66,38 @@
     }
   ],
   "skills": [],
-  "languages": [],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    },
+    {
+      "language": "Mandarin Chinese",
+      "fluency": "Native"
+    },
+    {
+      "language": "Java",
+      "fluency": "Professional Working Proficiency"
+    },
+    {
+      "language": "Python",
+      "fluency": "Professional Working Proficiency"
+    }
+  ],
   "interests": [],
   "references": [],
   "publications": [
+    {
+      "title": "Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs",
+      "authors": "Wang, O. P., Bansal, T., Bai, R., Chui, E. M., & Gilpin, L. H.",
+      "venue": "The Twelfth Annual Conference on Advances in Cognitive Systems",
+      "year": 2025,
+      "url": "https://olivianxai.github.io/files/follow_my_lead.pdf",
+      "slidesurl": "https://olivianxai.github.io/files/slides1.pdf",
+      "bibtexurl": "https://olivianxai.github.io/files/bibtex1.bib",
+      "citation": "Wang, O. P., Bansal, T., Bai, R., Chui, E. M., & Gilpin, L. H. (2025). Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs. arXiv preprint arXiv:2510.09970.",
+      "excerpt": "This paper applied the ideologies from decision procedure by breaking down the complex logical fallacy description into atomic questions that can be answered with \"yes\" or \"no\". This paper intends to explore whether we could enforce LLMs to perform system 2 thinking in this way. This paper was accepted by The Twelfth Annual Conference on Advances in Cognitive Systems, and Bay Area Machine Learning Symposium for poster presentation"
+    }
   ],
   "presentations": [
 
