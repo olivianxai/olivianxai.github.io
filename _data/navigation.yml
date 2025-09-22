@@ -17,8 +17,6 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Blog Posts"
     url: /year-archive/
@@ -29,5 +27,3 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/

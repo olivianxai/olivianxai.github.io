@@ -11,31 +11,20 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computer Science and Engineering, University of California, Santa Cruz, 2028 (expected)
+* M.S. in Data Analytics, George Washington University, 2020
+* B.S. in Management Information Systems, University of Delaware, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2021 - 2024: Member of Technical Staff
+  * VMware
+  * Next-Gen Firewall Management Plane team. 
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
+* Java
+* Python
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
@@ -61,4 +50,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 
