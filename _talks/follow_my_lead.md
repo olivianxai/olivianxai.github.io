@@ -9,4 +9,4 @@ date: 10/2025
 location: "Atlanta, GA & Santa Clara, CA"
 ---
 
-![Follow My Lead Poster](/images/Follow My Lead Logical Fallacy Classification with Knowledge-Augmented LLMs-Poster.png)
+![Follow My Lead Poster](/images/follow_my_lead.png)

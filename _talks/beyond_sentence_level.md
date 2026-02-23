@@ -8,4 +8,4 @@ date: 03/04/2026
 location: "Berkeley, CA"
 ---
 
-[Download Poster (PDF)](/files/beyond_sentence_level.pdf)
+![Download Poster (PDF)](/files/beyond_sentence_level.pdf)
