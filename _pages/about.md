@@ -23,6 +23,9 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 ## Announcement
 
 **[Feb 2026]** 🎉 Poster accepted at ACM Symposium on CS & Law
-**[Sep 2025]** 🎉 Poster accepted at Bay Learn - Machine Learning Symposium
-San Francisco Bay Area 
+
+
+**[Sep 2025]** 🎉 Poster accepted at Bay Learn - Machine Learning Symposium San Francisco Bay Area 
+
+
 **[Sep 2025]** Poster accepted at The Twelfth Annual Conference on Advances in Cognitive Systems
