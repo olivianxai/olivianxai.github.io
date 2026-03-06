@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* 2025: Agentic AI Engineer
+  * ProspectIntel
+  * Built a multi-agent framework
+
 * 2021 - 2024: Member of Technical Staff
   * VMware
   * Next-Gen Firewall Management Plane team. 

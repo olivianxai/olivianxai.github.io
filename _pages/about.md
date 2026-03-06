@@ -16,6 +16,8 @@ There is a Chinese phrase that I really like, as it summarizes my research - 无
 
 Currently I am focusing on two research topics - Faithful Neuro-symbolic Reasoning and Neuro-symbolic LegalAI. 
 
+Fun fact: I almost went to law school :)
+
 Yes, the dog in the profile pic is mine. His name is Toto 🐶
 
 ## Announcement
