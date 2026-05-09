@@ -22,7 +22,7 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 
 ## Announcement
 
-**[April 2026]** 🎉 Paper accepted at Bloomberg LSLLAI 2026! Presentation Scheduled for June 9th at the Bloomberg Headquarter. See you in NYC!
+**[April 2026]** 🎉 Our Abstract "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning" was accepted at Bloomberg LSLLAI 2026! Presentation Scheduled for June 9th at the Bloomberg Headquarter. See you in NYC!
 
 **[Feb 2026]** 🎉 Poster accepted at ACM Symposium on CS & Law
 
