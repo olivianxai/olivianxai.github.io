@@ -8,6 +8,6 @@ date: 2025-10-21
 venue: 'The Twelfth Annual Conference on Advances in Cognitive Systems'
 #slidesurl: 'https://olivianxai.github.io/files/slides1.pdf'
 paperurl: 'https://olivianxai.github.io/files/follow_my_lead.pdf'
-bibtexurl: 'https://olivianxai.github.io/files/bibtex1.bib'
+#bibtexurl: 'https://olivianxai.github.io/files/bibtex1.bib'
 citation: 'Wang, O. P., Bansal, T., Bai, R., Chui, E. M., & Gilpin, L. H. (2025). Follow My Lead: Logical Fallacy Classification with Knowledge-Augmented LLMs. arXiv preprint arXiv:2510.09970.'
 ---
