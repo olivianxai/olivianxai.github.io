@@ -1,7 +1,7 @@
 ---
 title: 'Legal Practitioner's Guide to LLMs'
-date: 06-13-2026
-permalink: /posts/legal_practitioners_guide_to_LLM_start
+date: 2026-06-13
+permalink: /posts/2026/06/13/legal_practitioners_guide_to_LLM_start
 tags:
   - Legal
   - AI
