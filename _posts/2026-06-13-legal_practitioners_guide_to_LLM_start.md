@@ -1,5 +1,5 @@
 ---
-title: 'Legal Practitioner's Guide to LLMs'
+title: "Legal Practitioner's Guide to LLMs"
 date: 2026-06-13
 permalink: /posts/2026/06/13/legal_practitioners_guide_to_LLM_start
 tags:
