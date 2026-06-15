@@ -22,7 +22,11 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 
 ## Announcement
 
+**[June 2026]** 🎉 Our paper "Know Your Limits" has been accepted by AI4Law Workshop at ICML 2026!
+
 **[June 2026]** 🎉 We have finished the rebuttal of our COLM 2026 submission, and our preprint "Know Your Limits : On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning" is available on arXiv!
+
+**[June 2026]**  I have started my new blog series on "Legal Practitioner’s Guide to LLMs". You can view them under the "Blog Posts" tab. 
 
 **[April 2026]** 🎉 Our Abstract "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning" was accepted at Bloomberg LSLLAI 2026! Presentation Scheduled for June 9th at the Bloomberg Headquarter. See you in NYC!
 
