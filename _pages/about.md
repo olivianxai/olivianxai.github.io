@@ -22,7 +22,7 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 
 ## Announcement
 
-**[June 2026]** 🎉 Our paper "Know Your Limits" has been accepted by AI4Law Workshop at ICML 2026!
+**[June 2026]** 🎉 Our paper "Know Your Limits" has been accepted by AI4Law and AI4Math Workshops at ICML 2026! We thank the reviewers for their time and efforts put into providing us with constructive feedback!
 
 **[June 2026]** 🎉 We have finished the rebuttal of our COLM 2026 submission, and our preprint "Know Your Limits : On the Faithfulness of LLMs as Solvers and Autoformalizers in Legal Reasoning" is available on arXiv!
 
