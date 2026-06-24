@@ -25,10 +25,20 @@ Work experience
   * VMware
   * Next-Gen Firewall Management Plane team. 
 
+* 2020 - 2021: Software Engineer/Data Analyst,
+  * Verstand AI
+  * Deployed ETL, Airflow DAGs on GCP
+
+* 2020 - 2020: Data Scientist Intern
+  * Mid-Atlantic Permanente Medical Group
+  * Built a Natural Language Processing model classifying free text doctor notes to ICD-10 codes
+
+
 Skills
 ======
 * Java
 * Python
+* And many more
 
 Publications
 ======
