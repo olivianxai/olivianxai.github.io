@@ -32,9 +32,9 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 
 **[April 2026]** 🎉 Our Abstract "Bridging Legal Interpretation and Formal Logic: Faithfulness, Assumption, and the Future of AI Legal Reasoning" was accepted at Bloomberg LSLLAI 2026! Presentation Scheduled for June 9th at the Bloomberg Headquarter. See you in NYC!
 
-**[Feb 2026]** 🎉 Poster accepted at ACM Symposium on CS & Law
+**[Feb 2026]** 🎉 Our poster "Beyond Sentence Level" was accepted at ACM Symposium on CS & Law
 
-**[Sep 2025]** 🎉 Poster accepted at Bay Learn - Machine Learning Symposium San Francisco Bay Area 
+**[Sep 2025]** 🎉 Our poster "Follow My Lead" was accepted at Bay Learn - Machine Learning Symposium San Francisco Bay Area 
 
-**[Sep 2025]** Poster accepted at The Twelfth Annual Conference on Advances in Cognitive Systems
+**[Sep 2025]** Our poster "Follow My Lead" was accepted at The Twelfth Annual Conference on Advances in Cognitive Systems
 
