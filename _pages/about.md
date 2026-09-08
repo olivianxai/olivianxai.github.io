@@ -22,6 +22,8 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 
 ## Announcement
 
+**[September 2026]** 🎉 I have been invited to participate in Dagstuhl Seminar 26472 on Neurosymbolic Reasoning About Policies and Legal Texts! I am grateful for the invitation and acknowledgement!
+
 **[June 2026]** 🎉 I have been invited to serve on the program committee for the NLLP workshop. I am very honored and grateful for the invitation and acknowledgement!
 
 **[June 2026]** 🎉 Our paper "Know Your Limits" has been accepted by AI4Law and AI4Math Workshops at ICML 2026! We thank the reviewers for their time and efforts put into providing us with constructive feedback!
