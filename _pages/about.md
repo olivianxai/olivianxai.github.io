@@ -22,7 +22,7 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 
 ## Announcement
 
-**[September 2026]** 🎉 I just passed the Qualification Exam, and is a PhD candidate now! I'll continue working on Neuro-symbolic applications in the legal field. 
+**[September 2026]** 🎉 I just passed the Qualification Exam, and am a PhD candidate now! I'll continue working on Neuro-symbolic applications in the legal field. 
 
 
 **[September 2026]** 🎉 I have been invited to participate in Dagstuhl Seminar 26472 on Neurosymbolic Reasoning About Policies and Legal Texts! I am grateful for the invitation and acknowledgement!
