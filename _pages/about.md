@@ -25,7 +25,7 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 **[September 2026]** 🎉 I just passed the Qualification Exam, and am a PhD candidate now! I'll continue working on Neuro-symbolic applications in the legal field. 
 
 
-**[September 2026]** 🎉 I have been invited to participate in Dagstuhl Seminar 26472 on Neurosymbolic Reasoning About Policies and Legal Texts! I am grateful for the invitation and acknowledgement!
+**[September 2026]** 🎉 I have been invited to participate in Dagstuhl Seminar 26472 on Neurosymbolic Reasoning About Policies and Legal Texts! It's an invitation only seminar and I am grateful for the invitation and acknowledgement!
 
 **[June 2026]** 🎉 I have been invited to serve on the program committee for the NLLP workshop. I am very honored and grateful for the invitation and acknowledgement!
 
