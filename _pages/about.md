@@ -22,7 +22,7 @@ Yes, the dog in the profile pic is mine. His name is Toto 🐶
 
 ## Announcement
 
-**[September 2026]** 🎉 I just passed the Qualification Exam, and am a PhD candidate now! I'll continue working on Neuro-symbolic applications in the legal field. 
+**[September 2026]** 🎉 I just passed the Qualification Exam, and am a PhD candidate now! I'll continue working on Neuro-symbolic applications in the legal field. Thanks to my committee members, Prof. [Yang Liu](https://ucsc-ai.github.io/member/yang/), Prof. [Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/), Prof. [Andrew Blair-Stanek](https://www.law.umaryland.edu/faculty--research/directory/profile/index.php?id=893) and my best advisor Prof. [Leilani H. Gilpin](https://aiea-lab.github.io/member/leilani/) for taking the time out of their busy schedules to be there and offer me very helpful feedback on my proposals!
 
 
 **[September 2026]** 🎉 I have been invited to participate in Dagstuhl Seminar 26472 on Neurosymbolic Reasoning About Policies and Legal Texts! It's an invitation only seminar and I am grateful for the invitation and acknowledgement!
